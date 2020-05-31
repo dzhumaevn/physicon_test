@@ -1,0 +1,26 @@
+.courseContent * {
+	margin: 0;
+}
+
+.courseGenre {
+	font-size: 0.8rem;
+}
+
+.courseMeta {
+	font-weight: 800;
+	font-size: 0.8rem;
+}
+
+.courseMeta a {
+	color: #00c1ff;
+}
+
+.coursePrice {
+	font-weight: 600;
+	background: #00c1ff;
+	border-radius: 5px;
+	text-align: center;
+	color: #fff;
+	font-size: 0.7rem;
+	padding: 0.1rem;
+}

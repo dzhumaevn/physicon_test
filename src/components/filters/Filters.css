@@ -1,0 +1,13 @@
+.filters button {
+	color: #00c1ff;
+	border-color: #00c1ff;
+	text-align: left;
+}
+
+.filters button:hover {
+	color: #ffffff;
+	background-color: #00c1ff;
+	border-color: #00c1ff;
+	text-align: left;
+}
+
